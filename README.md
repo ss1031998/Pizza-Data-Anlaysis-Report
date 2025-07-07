@@ -43,7 +43,7 @@ This project uses data visualization and analysis techniques to answer key busin
 
 ### 🏠 Home Page – Sales Overview & Trends
 
-![Home Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/home_dashboard.png?raw=true)
+![Home Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/Home_dashboard.png)
 
 > *Shows KPIs, daily/monthly order trends, category & size breakdowns.*
 
@@ -51,7 +51,7 @@ This project uses data visualization and analysis techniques to answer key busin
 
 ### ⭐ Best/Worst Sellers Page
 
-![Best/Worst Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/best_worst Sellers.png?raw=true)
+![Best/Worst Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/Best_Worst%20Sellers.png)
 
 > *Highlights top & bottom pizzas by revenue and quantity. Includes insights on categories and customer preferences.*
 
