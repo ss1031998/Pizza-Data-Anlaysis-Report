@@ -39,6 +39,24 @@ This project uses data visualization and analysis techniques to answer key busin
 - 📉 Underperforming Items Detection
 
 ---
+## 📷 Dashboard Screenshots
+
+### 🏠 Home Page – Sales Overview & Trends
+
+![Home Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/home_dashboard.png?raw=true)
+
+> *Shows KPIs, daily/monthly order trends, category & size breakdowns.*
+
+---
+
+### ⭐ Best/Worst Sellers Page
+
+![Best/Worst Dashboard](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/best_worst_dashboard.png?raw=true)
+
+> *Highlights top & bottom pizzas by revenue and quantity. Includes insights on categories and customer preferences.*
+
+---
+
 
 ## 📂 Project Structure
 
